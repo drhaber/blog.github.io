@@ -7,10 +7,9 @@ comments: true
 author: Dani
 ---
  
- Why did I delete my socials?
+ Why did I delete my socials?  
 
- 
- In a Short - Political Climate
+ In a Short - Political Climate  
 
  The uncertainty and looming dread I had felt leading into and within January 2025, was a large motivation for my separation from social media with a specific emphasis on Meta products. 
  

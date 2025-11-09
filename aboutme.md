@@ -8,7 +8,7 @@ subtitle: I promise I'm more insufferable in person
 Just another Nonbinary Nerd on the internet who's discovering themselves  
 
 💛🤍💜🖤  
-🏳️‍🌈🏳️‍⚧️ 
+🏳️‍🌈🏳️‍⚧️  
 
 Jewish, Nonbinary, Trixic, Sober, and Demi
 
