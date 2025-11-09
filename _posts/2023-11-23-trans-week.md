@@ -4,7 +4,7 @@ title: Trans week 23
 date: 2023-11-23 14:48 -0500
 ---
 
-{% assign base_url = 'https://drhaber.github.io' %}
+{% assign base_url = 'https://drhaber.github.io/blog.github.io' %}
 {% assign base_path = '/assets/img/Highlights/Trans week 23/' %}
 
 {% for file in site.static_files %}
