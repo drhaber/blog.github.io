@@ -72,9 +72,9 @@ as_timestamp(now())
 provides the current time in a format we can do math with
 
 we then subtract that from the time saved within the helper which is accessed using
-
+```
 states.input_datetime.new_reminder.attributes.timestamp
-
+```
 we then convert that timestamp into days and round it to the nearest tenth of a day
 ```
 | int /60/1440) | round(1)
