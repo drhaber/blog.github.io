@@ -1,13 +1,11 @@
 ---
 layout: post
 title: My Almost Year Without Social Media
-subtitle: What going 11 months without social media was like
+subtitle: Why I went 11 months without social media
 tags: [v2, stream, text]
 comments: true
 author: Dani
 ---
- 
- # Why I did it
  
  Why did I delete my socials?
  
