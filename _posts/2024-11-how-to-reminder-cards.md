@@ -13,11 +13,11 @@ This is an excerpt from this reddit post I made from my now deleted account http
 Each Bubble Needs:
 
 A Date Time Helper
-
+https://www.home-assistant.io/integrations/input_datetime/
 An Automation to allow resetting
-
+https://www.home-assistant.io/integrations/input_datetime/#actions
 The actual Lovelace Display card
-
+https://github.com/piitaya/lovelace-mushroom/blob/main/docs/cards/chips.md
 Making the Helpers: Navigate to the helper GUI configurator
 
     /config/helpers
@@ -50,7 +50,7 @@ There are a few ways to accomplish this but this code block will allow the reset
 Note: Metadata might not be needed
 
 Lastly let's make the card for lovelace I used Mushroom Chips Card
-
+https://github.com/piitaya/lovelace-mushroom/blob/main/docs/cards/chips.md
 But realistically you could use whatever you want
 
 Select Template from the drop-down in the GUI configurator https://imgur.com/a/iGaEIbt
