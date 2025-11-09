@@ -14,4 +14,6 @@ Jewish, Nonbinary, Trixic, Sober, and Demi<br>
   ♊♎♉
   <span style="float:right;">🍉🍉🍉</span>
 </p>
+
+This site is activly being built and populated. Many posts will appear backdated as they are migrated from various blogging and social media platform archives.
 </center>
