@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything is Jekyll
-subtitle: Using the same site gnerator that the tutrorial is using produces funny consequences 
+subtitle: Using the same site generator that the tutrorial is using produces funny consequences 
 tags: [final, insta, pics]
 comments: true
 author: Dani
