@@ -4,8 +4,8 @@ title: Trans week 23
 date: 2023-11-23 14:48 -0500
 ---
 
-<div class="gallery">
-  {% for file in site.static_files %}
-      {% include image-gallery.html folder="/assets/img/Highlights/Trans week 23" %}
-</div>
+{% assign images = site.static_files | where: "path", "/assets/img/Highlights/Trans week 23" %}
 
+{% for image in images %}
+  ![{{ image.name | split: '.' | first }}]({{ image.path }})
+{% endfor %}
