@@ -56,9 +56,11 @@ Select Template from the drop-down in the GUI configurator [GUI configurator](ht
 Input your icon string from earlier [Icon String](https://i.imgur.com/DpDZOEd.png)
 
 After that, we'll configure the counter and reset functions. ![CounterReset](https://i.imgur.com/VydTrBe.png)
+{% raw %}
 ```
 {{(((as_timestamp(now())-states.input_datetime.new_reminder.attributes.timestamp)) | int /60/1440) | round(1)}} Days Since Reminder Reset
 ```
+{% endraw %}
 You can simply copy paste the above block into content and change "new_reminder" to the name of your helper, give it some flavor text, in this instance "Days Since Reminder Reset" can be changed to say anything, and then under the automation target choose your reset automation from the entity list
 
 a quick explanation of what is happening here so you can further customize it
@@ -80,6 +82,8 @@ we then convert that timestamp into days and round it to the nearest tenth of a 
 Additionally this specific card allows setting the colour of the icon and it can be done conditionally too.
 
 IE. it is possible to change the icon's colour as it progress so if say you want the icon to be Yellow if it's been too many days
+{% raw %}
 ```
 {{'#F3A83C' if (((as_timestamp(now())-states.input_datetime.litter_box_cabinet_door_openattributes.timestamp))| int /60/1440) | round(1) >= 3}}
   ```
+  {% endraw %}
