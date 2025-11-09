@@ -8,8 +8,10 @@ author: Dani
 ---
  
  Why did I delete my socials?
+
  
  In a Short - Political Climate
+ 
  The uncertainty and looming dread I had felt leading into and within January 2025, was a large motivation for my separation from social media with a specific emphasis on Meta products. 
  
  Back in January during the events of the inauguration I sent it upon myself to cut ties with all companies whose leadership was present at that event. I ended up canceling a myriad of services I had subscriptions for. From video streaming, audio books, or express shipping programs I ended up altering my spending habits and stores I shopped at. I got myself a library card and even went so far to shift my GPS data logging away from Google to a local solution. 
