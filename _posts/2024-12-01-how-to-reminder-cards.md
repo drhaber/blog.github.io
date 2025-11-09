@@ -82,8 +82,7 @@ we then convert that timestamp into days and round it to the nearest tenth of a 
 Additionally this specific card allows setting the colour of the icon and it can be done conditionally too.
 
 IE. it is possible to change the icon's colour as it progresses so if say you want the icon to be Yellow if it's been too many days
-{% raw %}
+
 ```
 {{'#F3A83C' if (((as_timestamp(now())-states.input_datetime.litter_box_cabinet_door_openattributes.timestamp))| int /60/1440) | round(1) >= 3}}
   ```
-  {% endraw %}
