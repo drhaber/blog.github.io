@@ -17,6 +17,7 @@ Archive - This post includes posts from other platforms or locales and may not f
 02<br>
 Source/Format<br>
 insta - these posts are coming from instagram or attempting ot mimic the style of instagram posts<br>
+reddit - these post originated from reddit<br>
 Sols - these are short narrative like tales written as if they were part of a memoir<br>
 Excerpt - either mine or someone else's<br>
 
