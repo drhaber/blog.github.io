@@ -9,6 +9,7 @@ date: 2023-11-23 14:48 -0500
 
 {% for file in site.static_files %}
   {% if file.path contains base_path %}
-    ![{{ file.name }}]({{ base_url | append: file.path | relative_url }})
+    # ![{{ file.name }}]({{ base_url | append: file.path | relative_url }})
+    <img src="{{ base_url | append: file.path }}" alt="{{ file.name }}" />
   {% endif %}
 {% endfor %}
