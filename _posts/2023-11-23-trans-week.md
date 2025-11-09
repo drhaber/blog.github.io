@@ -11,3 +11,5 @@ date: 2023-11-23 14:48 -0500
       {% endif %}
   {% endfor %}
 </div>
+
+{% include image-gallery.html folder="https://drhaber.github.io/assets/img/Highlights/Trans week 23" %}
