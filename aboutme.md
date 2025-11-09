@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I promise I'm more insufferable in person
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ <center>
+Just another Nonbinary Nerd on the internet who's discovering themselves  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+💛🤍💜🖤  
+🏳️‍🌈🏳️‍⚧️ 
+Jewish, Nonbinary, Trixic, Sober, and Demi
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p style="text-align:left; margin-left: 250px; margin-right: 250px;">
+  ♊♎♉
+  <span style="float:right;">🍉🍉🍉</span>
+</p>
+</center>
