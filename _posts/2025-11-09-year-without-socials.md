@@ -2,7 +2,7 @@
 layout: post
 title: My Almost Year Without Social Media
 subtitle: Why I went 11 months without social media
-tags: [final, stream, text]
+tags: [final, sols, text]
 comments: true
 author: Dani
 ---
