@@ -19,7 +19,7 @@ author: Dani
  
  Engaging in this online presence exodus was an attempt to exercise agency and control over this paralysis. In the end however, these fears and anxieties have continued to be omnipresent. No matter how much I alienated myself and abstained from the participation in social media and algorithm-driven media I have not felt any perceivable impact on my anxiety and the loneliness I've come to feel by this behavior has been challenging on to itself.
 
- I do not know yet what my relationship is to social media and my palpable disdain for it that's festered over these months, but I ultimately rebooted Instagram. In time I hope my use of it will look like will emerge but for now I intend to use this blog space to share what I have been working on.
+ I do not know yet what my relationship is to social media and my palpable disdain for it that's festered over these months, but I ultimately rebooted Instagram. In time I hope what my use of it will look like will emerge but for now I intend to use this blog space to share what I have been working on.
  
  I hope you enjoy and come back around from time to time. 
  
