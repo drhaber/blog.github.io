@@ -25,27 +25,27 @@ The lame duck was a time I spent looking for ways to hold myself together. I spe
 
 One of those dozens of projects was a simple Gregorian New Year Ins and Outs list. I typically make a bucket list in the fall for the Days of Awe. However with the complexities associated with the dread I felt leading into January I attempted to lean into any form of intention settings, or hope maxing I could grasp.
 
->Outs: 
->Caffeine
->Doom Scrolling 
->Video Streaming Services 
->Amazon 
->Surrendering to the unknown 
->
->Ins:
->Saying No
->3D Modeling
->Colored Pencils 
->DVDs
->Books 
->Camping 
->Science Experiments 
->Fish Tanks
->Staying Sober 
->Thrifting
->Up cycling
->Climbing
->Mirror Selfies 
+>Outs:<br>
+>Caffeine<br>
+>Doom Scrolling<br>
+>Video Streaming Services<br> 
+>Amazon<br>
+>Surrendering to the unknown<br>
+><br>
+>Ins:<br>
+>Saying No<br>
+>3D Modeling<br>
+>Colored Pencils<br>
+>DVDs<br>
+>Books<br>
+>Camping<br>
+>Science Experiments<br>
+>Fish Tanks<br>
+>Staying Sober<br>
+>Thrifting<br>
+>Up cycling<br>
+>Climbing<br>
+>Mirror Selfies<br>
 
 Understanding where this list caused my behavior or if my behavior caused this list or if this list was a manifestation of what I wanted. Is a mystery I intend to leave undiscovered for I fear removing the veil will shatter the meaning it brings. However recognizing how it has impacted my year so far is unprecedented in ways I hope to express soon™️. 
 
