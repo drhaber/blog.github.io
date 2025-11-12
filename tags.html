@@ -36,6 +36,12 @@ title: 'Tag Index'
         {%- if item.tags contains tag -%}
           <div class="tag-entry">
             <a href="{{ item.url | relative_url }}">{{- item.title | strip_html -}}</a>
+            
+            {%- if item.layout == "poem" -%}
+              <span class="badge-poem">Poem</span>
+            {%- endif -%}
+
+            
             <div class="entry-date">
               <time datetime="{{- item.date | date_to_xmlschema -}}">
                 {{- item.date | date: date_format -}}
