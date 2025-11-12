@@ -7,6 +7,8 @@ comments: true
 author: Dani
 ---
 
+Thankfully because of how I shuttered my old Insta my username was free again to be reclaimed.
+
 {: .box-note}
 This essay contains a collection of remediated, curated, and heavily edited handwritten, typed, and dictated personal journal entries dating between November of 2024 and November of 2025. Quoted Entries that only have grammar, spelling, or formatting altered will be labeled unabridged. Assume all others are significantly modified. 
 
@@ -21,7 +23,7 @@ The dread, uncertainty, fear, and anxiety I was experiencing was ubiquitous. I h
 
 >"We proved it all that trauma and that challenging difficulty that we went through back during the pandemic and through that last presidency we got a little reprieve and now we're right back fucking at it again." (Unabridged, handwritten, Nov. 11th '24) 
 
-The lame duck was a time I spent looking for ways to hold myself together. I spent a lot of it with friends and a lil over 200 hours playing Factorio Space Age, which I highly recommend anyone that enjoys spreadsheets give an honest go, trying not to spiral. I found a lot of solace in being creative and spent an exorbitant amount of time writing and working on a plethora of projects many of which I shared on the insta I still had at the time. 
+The lame duck was a time I spent looking for ways to hold myself together. Trying not to spiral I spent a lot of it with friends and a lil over 200 hours playing Factorio Space Age, which I highly recommend anyone that enjoys spreadsheets give an honest go. I found a lot of solace in being creative and spent an exorbitant amount of time writing and working on a plethora of projects many of which I shared on the insta I still had at the time. 
 
 One of those dozens of projects was a simple Gregorian New Year Ins and Outs list. I typically make a bucket list in the fall for the Days of Awe. However with the complexities associated with the dread I felt leading into January I attempted to lean into any form of intention settings, or hope maxing I could grasp.
 
@@ -49,7 +51,7 @@ One of those dozens of projects was a simple Gregorian New Year Ins and Outs lis
 
 Understanding where this list caused my behavior or if my behavior caused this list or if this list was a manifestation of what I wanted. Is a mystery I intend to leave undiscovered for I fear removing the veil will shatter the meaning it brings. However recognizing how it has impacted my year so far is unprecedented in ways I hope to express soon™️. 
 
-As I entered the new year and January began we had received an immaculate blanket of snow that delightfully delayed my return to work post holiday. The month toiled on uneventfully until the shutdown of tiktok and the inauguration itself happened. If tiktok was the Circus Maximus then my Incendium Magnum Romae had begun. I scorched everything and began my social media exodus and having already completed two books so far by this time I leaned heavy into reading and started unexpectedly paying attention to sports. 
+As I entered the new year and January began my return to work post holiday was delightfully delayed as we had received an immaculate blanket of snow. The month toiled on uneventfully until the shutdown of tiktok and the inauguration itself happened. If tiktok was the Circus Maximus then my Incendium Magnum Romae had begun. I scorched everything and began my social media exodus and having already completed two books so far by this time I leaned heavy into reading and started unexpectedly paying attention to sports. 
 
 Carrying on into February I visited Florida for work where myself and my colleagues learned the worst. The company's contract was potentially being renegotiated as a knock on effect of the tariffs. 
 
@@ -71,10 +73,8 @@ It felt reminiscent of being in high school again. For a brief period it was fun
 
 "The idea of talking to a wall as being preferable to silence is funny. Especially because back in the beginning of Facebook that's what we did. We talked to each other's walls. What happened to that? That skeuomorphic analogy? It was so elegant, quirky, and fun?! Timeline just feels drab and soulless. Has social media always felt soulless to me? I don't think so. I really quite enjoyed when I did use it. Especially as an early adopter in 2009. Do I miss having social media...?" (handwritten, Sep. 6th, '24)
 
-I managed to find a job briefly through the month of August before securing the one I am at now. As I progressed into this new position and adapted to the schedule it required of me the disconnect from my peers and community grew in an unprecedented way. My free time was suddenly scarce and the time I had for the laborious form of manual communication was falling through. The challenges of sustaining the level of connections I wanted were taking a back seat as my spoons began to be allocated towards my career. My wavering ability to sustain these efforts began to grow into a plasmodium network touching familiar nodes of that high school social anxiety as this distance between connections began to fluctuate. 
+I managed to find a job briefly through the month of August before securing the one I am at now. As I progressed into this new position and adapted to the schedule it required of me the disconnect from my peers and community grew in an unprecedented way. My free time was suddenly scarce and the time I had for the laborious form of manual communication was falling through. Allocating my spoons towards my career, the challenges of sustaining the level of connections I wanted were taking a back seat. My wavering ability to sustain these efforts began to grow into a plasmodium network touching familiar nodes of that high school social anxiety as this distance between connections began to fluctuate. 
 
 Reflecting on how I was feeling I started to list out what I wanted my online presence to look like. I reignited the blog I briefly hosted in February and started flagging poems, journal entries, tutorials, discord posts, and other multimedia excerpts I've shared with the world. 
 
-I started the process of remediation with the intent of populating this new corner, or as it is in 3D space an octant, with media. I came to realize during this endeavor that cross posting Instagram posts would be something I would enjoy doing. That realization was all it really took, I think, to make the decision to reboot my Instagram. 
-
-Thankfully because of how I shuttered my old Insta my username was free again to be reclaimed.
+I started the process of remediation with the intent of populating this new corner, or as it is in 3D space an octant, with media. I came to realize during this endeavor that  posting to Instagram again would be something I would enjoy doing. That realization was all it really took, I think, to make the decision to reboot my Instagram. 
