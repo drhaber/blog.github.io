@@ -4,26 +4,31 @@ title: Poetry
 ---
 
 <h1>Poetry</h1>
-<ul class="post-list">
+
+<div class="posts-list">
   {% assign sorted_poems = site.poetry | sort: 'date' | reverse %}
   {% for poem in sorted_poems %}
-    <li>
+    <article class="post-preview">
       <a href="{{ poem.url | relative_url }}">
         <h2 class="post-title">{{ poem.title | strip_html }}</h2>
-
         {% if poem.subtitle %}
           <h3 class="post-subtitle">{{ poem.subtitle | strip_html }}</h3>
         {% endif %}
       </a>
 
       {% if poem.author %}
-        <span>By <strong>{{ poem.author | strip_html }}</strong></span>
+        <p class="post-meta">
+          By <strong>{{ poem.author | strip_html }}</strong>
+          •
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          Posted on {{ poem.date | date: date_format }}
+        </p>
+      {% else %}
+        <p class="post-meta">
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          Posted on {{ poem.date | date: date_format }}
+        </p>
       {% endif %}
-
-      <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ poem.date | date: date_format }}
-      </p>
 
       {% if poem.excerpt %}
         <p>{{ poem.excerpt }}</p>
@@ -37,7 +42,9 @@ title: Poetry
           {% endfor %}
         </p>
       {% endif %}
-    </li>
+    </article>
+
+    <hr>
   {% endfor %}
-</ul>
+</div>
 
