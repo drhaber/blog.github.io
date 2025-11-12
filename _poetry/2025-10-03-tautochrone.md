@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Laying in this Tautochrone
-tags: [poem, debut, tech, anxiety]
+tags: [debut, tech, anxiety]
 comments: true
 author: Dani
 ---
