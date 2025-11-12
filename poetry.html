@@ -4,10 +4,40 @@ title: Poetry
 ---
 
 <h1>Poetry</h1>
-<ul>
-  {% for poem in site.poetry %}
+<ul class="post-list">
+  {% assign sorted_poems = site.poetry | sort: 'date' | reverse %}
+  {% for poem in sorted_poems %}
     <li>
-      <a href="{{ poem.url | relative_url }}">{{ poem.title }}</a>
+      <a href="{{ poem.url | relative_url }}">
+        <h2 class="post-title">{{ poem.title | strip_html }}</h2>
+
+        {% if poem.subtitle %}
+          <h3 class="post-subtitle">{{ poem.subtitle | strip_html }}</h3>
+        {% endif %}
+      </a>
+
+      {% if poem.author %}
+        <span>By <strong>{{ poem.author | strip_html }}</strong></span>
+      {% endif %}
+
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        Posted on {{ poem.date | date: date_format }}
+      </p>
+
+      {% if poem.excerpt %}
+        <p>{{ poem.excerpt }}</p>
+      {% endif %}
+
+      {% if poem.tags %}
+        <p class="post-tags">
+          Tags:
+          {% for tag in poem.tags %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
+
