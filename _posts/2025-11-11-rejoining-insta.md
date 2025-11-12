@@ -2,7 +2,7 @@
 layout: post
 title: Rejoining Insta
 subtitle: Returning after almost a year 
-tags: [draft, sols, text]
+tags: [final, sols, text]
 comments: true
 author: Dani
 ---
