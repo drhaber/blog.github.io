@@ -1,0 +1,10 @@
+.badge-poem {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0.2em 0.4em;
+  font-size: 0.75em;
+  font-style: italic;
+  color: #fff;
+  background-color: #6c63ff; /* soft purple */
+  border-radius: 4px;
+}
