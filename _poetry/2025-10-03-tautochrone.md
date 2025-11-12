@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: Laying in this Tautochrone
 tags: [draft, poem, text]
 comments: true
