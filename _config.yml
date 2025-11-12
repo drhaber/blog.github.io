@@ -21,6 +21,7 @@ author: Dani 👋
 
 navbar-links:
   About Me: "aboutme"
+  Poetry: "poetry"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
