@@ -8,31 +8,42 @@ title: 'Tag Index'
 {% assign all_items = site.posts | concat: site.poetry %}
 
 {%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- assign tag_map = "" | split: "" -%}
+  {%- for item in all_items -%}
+    {%- for tag in item.tags -%}
+      {%- assign tag_map = tag_map | push: tag -%}
     {%- endfor -%}
+  {%- endfor -%}
+  {%- assign tags_list = tag_map | uniq | sort -%}
 {%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+  <a href="#{{- tag -}}" class="btn btn-primary tag-btn">
+    <i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;
+    ({{ all_items | where_exp: "item", "item.tags contains tag" | size }})
+  </a>
 {%- endfor -%}
 
 <div id="full-tags-list">
-{%- for tag in tags_list -%}
+  {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
+      <i class="fas fa-tag" aria-hidden="true"></i>
+      &nbsp;{{- tag -}}&nbsp;
+      ({{ all_items | where_exp: "item", "item.tags contains tag" | size }})
     </h2>
     <div class="post-list">
-        {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
+      {%- for item in all_items -%}
+        {%- if item.tags contains tag -%}
+          <div class="tag-entry">
+            <a href="{{ item.url | relative_url }}">{{- item.title | strip_html -}}</a>
+            <div class="entry-date">
+              <time datetime="{{- item.date | date_to_xmlschema -}}">
+                {{- item.date | date: date_format -}}
+              </time>
             </div>
-        {%- endfor -%}
+          </div>
+        {%- endif -%}
+      {%- endfor -%}
     </div>
-{%- endfor -%}
+  {%- endfor -%}
 </div>
