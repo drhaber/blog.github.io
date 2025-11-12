@@ -246,6 +246,15 @@ footer-hover-col: "#0085A1"
 #  emit-metadata: 0
 #  theme: light
 
+
+################
+#  Collections #
+################
+
+collections:
+  poetry:
+    output: true
+
 ################
 # --- Misc --- #
 ################
