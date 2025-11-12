@@ -6,8 +6,6 @@ comments: true
 author: Dani
 ---
 
-Laying in this Tautochrone
-
 A fabric indentation  
 A body soft at rest  
 Compression of foam  
